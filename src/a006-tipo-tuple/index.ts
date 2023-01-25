@@ -1,5 +1,4 @@
 //Tuple
-
 const DadosCliente1: readonly [ number, string ] = [ 1, "Enderson" ]
 const DadosCliente2: [ number, string, string ] = [ 1, "Enderson", "Pereira" ]
 const DadosCliente3: [ number, string, string? ] = [ 1, "Enderson" ]
