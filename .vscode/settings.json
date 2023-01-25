@@ -2,7 +2,5 @@
     "code-runner.executorMap": {
         "typescript": "npx ts-node --files",
     },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
