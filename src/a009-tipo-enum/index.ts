@@ -14,4 +14,4 @@ function escolherCor(cor: Cores): void{
     console.log((Cores[cor]))
 }
 
-escolherCor(123456)
+// escolherCor(123456)
