@@ -1,5 +1,5 @@
 type Idade = number
-type Pessoa = { 
+type Pessoa = {
     name:string
     idade: Idade
     salario: number
@@ -14,7 +14,7 @@ const pessoa: Pessoa = {
     name: 'Enderson',
     idade: 19,
     salario: 3.200
-    
+
 }
 
 export function setCorPreferida(pessoa: Pessoa, cor: CorPreferida): Pessoa{

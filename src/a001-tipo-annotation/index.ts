@@ -22,7 +22,7 @@ let pessoa: { name: string, idade: number, adulto?: boolean }= {
 
 //funções
 function soma(x: number, y: number): number{
-    return x + y
+    return x + y;
 }
 
 const soma2: (x: number, y:number)=> number =(x + y )=> x + y;
