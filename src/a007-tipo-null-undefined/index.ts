@@ -15,14 +15,14 @@ export function CreatePerson(
     }
 }
 
-export function squareOf(x: any): number | null {
-    if(typeof x === 'number') return x * x
-}
+// export function squareOf(x: any): number | null {
+//     if(typeof x === 'number') return x * x
+// }
 
-const squareOfTwoString = squareOf('2');
+// const squareOfTwoString = squareOf('2');
 
-if (squareOfTwoString === null) {
-  console.log('Conta inválida');
-} else {
-  console.log(squareOfTwoString * 100);
-}
+// if (squareOfTwoString === null) {
+//   console.log('Conta inválida');
+// } else {
+//   console.log(squareOfTwoString * 100);
+// }
